@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/router-dogs/static/css/main.17eb3895.chunk.css",
+    "main.js": "/router-dogs/static/js/main.4c1f9891.chunk.js",
+    "main.js.map": "/router-dogs/static/js/main.4c1f9891.chunk.js.map",
+    "runtime-main.js": "/router-dogs/static/js/runtime-main.f25eefa0.js",
+    "runtime-main.js.map": "/router-dogs/static/js/runtime-main.f25eefa0.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/router-dogs/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f9de1885.chunk.js": "/router-dogs/static/js/2.f9de1885.chunk.js",
+    "static/js/2.f9de1885.chunk.js.map": "/router-dogs/static/js/2.f9de1885.chunk.js.map",
+    "static/js/3.ffb5caed.chunk.js": "/router-dogs/static/js/3.ffb5caed.chunk.js",
+    "static/js/3.ffb5caed.chunk.js.map": "/router-dogs/static/js/3.ffb5caed.chunk.js.map",
+    "index.html": "/router-dogs/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/router-dogs/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.17eb3895.chunk.css.map": "/router-dogs/static/css/main.17eb3895.chunk.css.map",
+    "static/js/2.f9de1885.chunk.js.LICENSE.txt": "/router-dogs/static/js/2.f9de1885.chunk.js.LICENSE.txt",
+    "static/media/hazel.56f12732.jpg": "/router-dogs/static/media/hazel.56f12732.jpg",
+    "static/media/tubby.9c06bf82.jpg": "/router-dogs/static/media/tubby.9c06bf82.jpg",
+    "static/media/whiskey.7650f3f2.jpg": "/router-dogs/static/media/whiskey.7650f3f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f25eefa0.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f9de1885.chunk.js",
+    "static/css/main.17eb3895.chunk.css",
+    "static/js/main.4c1f9891.chunk.js"
+  ]
+}
